@@ -1,0 +1,50 @@
+LICENCIA PROPIETARIA DE USO DE LA APLICACIÓN “RedA”
+Copyright © 2026 – Jesús Manuel Padilla Gallardo
+1. Objeto de la licencia
+La presente licencia regula el uso de la aplicación RedA, su código fuente, sus componentes internos, su diseño, su estructura funcional y cualquier archivo asociado, incluyendo el archivo compilado APK, el archivo AIA, las extensiones integradas y la documentación técnica.
+RedA es software propietario. Todos los derechos no otorgados expresamente en esta licencia quedan reservados.
+________________________________________
+2. Derechos otorgados al usuario
+Se concede al usuario una licencia:
+•	Gratuita
+•	No exclusiva
+•	No transferible
+•	De uso personal o comunitario
+para instalar y utilizar la aplicación RedA en dispositivos Android compatibles.
+________________________________________
+3. Derechos reservados
+El autor NO concede permiso para:
+•	Modificar, descompilar, desensamblar o realizar ingeniería inversa del software.
+•	Crear obras derivadas basadas en RedA.
+•	Redistribuir el archivo APK, el archivo AIA o cualquier parte del software sin autorización expresa.
+•	Utilizar RedA con fines comerciales, empresariales o institucionales sin permiso escrito del autor.
+•	Integrar RedA o partes de su código en otros proyectos sin autorización.
+Cualquier uso no autorizado constituye una infracción de los derechos de propiedad intelectual.
+________________________________________
+4. Extensiones y componentes externos
+RedA utiliza extensiones externas con licencias abiertas:
+•	ImageConvertor Extension (MIT License)
+•	RYCloudinary Extension (licencia abierta de uso gratuito)
+Estas extensiones mantienen sus propias licencias, pero no otorgan derechos adicionales sobre RedA ni permiten modificar o redistribuir el software propietario.
+________________________________________
+5. Propiedad intelectual
+El software RedA, su diseño, su estructura, su lógica interna, su arquitectura de datos, sus pantallas, sus flujos y su documentación técnica son propiedad exclusiva de:
+Jesús Manuel Padilla Gallardo
+Queda prohibida cualquier reproducción total o parcial sin autorización.
+________________________________________
+6. Limitación de responsabilidad
+El software se proporciona “tal cual”, sin garantías de ningún tipo, explícitas o implícitas.
+El autor no se hace responsable de:
+•	Daños derivados del uso o mal uso de la aplicación
+•	Contenido publicado por los usuarios
+•	Fallos técnicos, interrupciones o pérdida de datos
+•	Decisiones tomadas por terceros basadas en información mostrada en la aplicación
+________________________________________
+7. Actualizaciones y modificaciones
+El autor podrá actualizar, modificar o retirar la aplicación en cualquier momento sin obligación de mantener compatibilidad con versiones anteriores.
+________________________________________
+8. Contacto para permisos especiales
+Para solicitudes de uso comercial, institucional o empresarial, así como para autorizaciones de redistribución o integración, contactar mediante el correo disponible en la sección “Acerca de…” de la aplicación.
+________________________________________
+9. Aceptación de la licencia
+El uso de la aplicación implica la aceptación plena y sin reservas de los términos de esta licencia.
